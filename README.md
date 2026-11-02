@@ -9,7 +9,7 @@
 ### 🔗 Links Entrega
 - **GitHub Repo:** https://github.com/marottavictoria22-max/claro-gestion-integrada-clientes
 - **Pull Request #1 Merged:** https://github.com/marottavictoria22-max/claro-gestion-integrada-clientes/pull/1
-- **Jira Scrum:** [PEGA ACA TU LINK REAL DE JIRA]
+- **Jira Scrum:** https://victoriamarotta.atlassian.net/jira/software/projects/SCRUM/boards/1
 
 ### 📊 KPIs de Control
 - Altas <24hs: >95%
